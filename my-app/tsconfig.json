@@ -1,0 +1,14 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true
+  },
+  // "include": [
+  //   // Your other includes...
+  //   "./react-native.d.ts"
+  // ],
+  // "files": [
+  //   "react-native.d.ts"
+  // ]
+
+}
