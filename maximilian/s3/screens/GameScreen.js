@@ -14,6 +14,7 @@ function generateRandomBetween(min, max, exclude) {
   }
 }
 
+
 export default function GameScreen({userChoice}) {
 	const [currentGuess,setCurrentGuess] = useState(generateRandomBetween(1,100,userChoice))
   return (
